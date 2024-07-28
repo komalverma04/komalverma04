@@ -1,3 +1,4 @@
+![logo](https://github.com/komalverma04/komalverma04/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Komal Verma</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/aefe98df-2b4d-47b1-a301-9d612956a8af">
