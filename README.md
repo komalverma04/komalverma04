@@ -1,7 +1,8 @@
 ![logo](https://github.com/komalverma04/komalverma04/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Komal Verma</h1>
 <h3 align="center">A passionate software developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/aefe98df-2b4d-47b1-a301-9d612956a8af">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/ae27838f-86da-46fe-9771-17fcdcbf58ec">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalverma04&label=Profile%20views&color=0e75b6&style=flat" alt="komalverma04" /> </p>
