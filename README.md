@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [KrishiSahyog](https://github.com/komalverma04/KrishiSahyog)
 
-- 🌱 I’m currently learning **Advanced React GenAI**
+- 🌱 I’m currently learning **Advanced React and GenAI**
 
 - 🤝 I’m looking for help with [Finny for implementing it completely.](https://github.com/komalverma04/Finny)
 
